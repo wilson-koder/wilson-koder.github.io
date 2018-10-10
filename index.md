@@ -1,4 +1,4 @@
-<style="background-color: rgb(244, 244, 241);">
+<div style="background-color: rgb(244, 244, 241);">
 
 <div style="text-align: center;"><h1>Wilson Koder</h1></div>
 
