@@ -103,18 +103,18 @@ More projects can be found [here](https://github.com/WilsonKoder), at my GitHub 
 ## Skills
 
 - C++ 
-  - OpenGL
-  - SDL
+  - [OpenGL](https://www.opengl.org/)
+  - [SDL](https://www.libsdl.org/)
 - C#
-  - MonoGame
+  - [MonoGame](http://www.monogame.net/)
   - XNA
 - Python
-  - Pygame
-  - Pymunk
-  - Flask
+  - [Pygame](https://www.pygame.org/news)
+  - [Pymunk](http://www.pymunk.org/en/latest/)
+  - [Flask](http://flask.pocoo.org/)
 - HTML/CSS
-- Unity
-- Unreal Engine
+- [Unity3D](https://unity3d.com)
+- [Unreal Engine](https://www.unrealengine.com)
 - Mobile Development
 
 
@@ -124,6 +124,10 @@ More projects can be found [here](https://github.com/WilsonKoder), at my GitHub 
 I grew up in Hong Kong and found a love for programming at a young age, I won a few awards throughout high school for computer science. I specifically focused my energy into game development. I also enjoy teacher programming to children and have since developed my own small language to make it easier for kids to program real games. I now study at the Lake Washington Institute of Technology in Kirkland, Washington and am completing an AAS in Computing and Software Development. 
 
 <img src="me.jpg" width="50%" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+
+## A Little Extra
+
+<iframe src="https://trinket.io/embed/pygame/1a6c6e83ec" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ----------------------------
 
