@@ -131,4 +131,7 @@ I grew up in Hong Kong and found a love for programming at a young age, I won a 
 
 ----------------------------
 
-<div style="text-align: center;">:space_invader: - <a href="https://github.com/WilsonKoder/">GitHub</a> - <a href="https://youtube.com/WilsonKoder">YouTube</a> - <a href="mailto:s-wilson.koder@lwtech.edu">Contact Me</a> - <a href="#top">Back to Top</a> - :video_game:</div>
+<div style="text-align: center;"><a href="https://github.com/WilsonKoder/">GitHub</a> - <a href="https://youtube.com/WilsonKoder">YouTube</a> - <a href="mailto:s-wilson.koder@lwtech.edu">Contact Me</a> - <a href="#top">Back to Top</a>  
+
+Wilson Koder, 12518 Northeast 156th Street, Woodinville, WA 98072</div>
+
