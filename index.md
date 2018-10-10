@@ -1,4 +1,6 @@
-<div id="main" style="background-color: rgb(244, 244, 241); text-color: rgb(42, 43, 34);"><div style="text-align: center;"><h1>Wilson Koder</h1></div>
+<style="background-color: rgb(244, 244, 241);">
+
+<div style="text-align: center;"><h1>Wilson Koder</h1></div>
 
 <hr>
 
@@ -45,7 +47,7 @@ More projects can be found [here](https://github.com/WilsonKoder), at my GitHub 
 
 I grew up in Hong Kong and found a love for programming at a young age, I won a few awards throughout high school for computer science. I specifically focused my energy into game development. I also enjoy teacher programming to children and have since developed my own small language to make it easier for kids to program real games. I now study at the Lake Washington Institute of Technology in Kirkland, Washington and am completing an AAS in Computing and Software Development. 
 
-<img align="center" src="me.jpg" width="50%">
+<img src="me.jpg" width="50%" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 ----------------------------
 
