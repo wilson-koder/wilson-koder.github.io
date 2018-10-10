@@ -4,7 +4,7 @@
 
 ## Projects
 
-The code examples presented with each project are showcases of the core parts of each program.
+The code examples presented with each project are showcases of **_some_** core parts of each program.
 
 ### [KodeEngine](https://github.com/WilsonKoder/KodeEngine)
 
