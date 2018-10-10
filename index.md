@@ -1,4 +1,6 @@
-# Wilson Koder
+<div style="text-align: center;"><h1>Wilson Koder</h1></div>
+
+<hr>
 
 ## Projects
 
