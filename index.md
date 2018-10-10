@@ -37,12 +37,13 @@ More projects can be found [here](https://github.com/WilsonKoder), at my GitHub 
 - HTML/CSS
 - Unity
 - Unreal Engine
+- Mobile Development
 
 
 
 ## About Me
 
-I grew up in Hong Kong and found a love for programming at a young age, I won a few awards throughout high school for computer science. I specifically focused my energy into game development. I also enjoy teacher programming to children and have since developed my own small language to make it easier for kids to program real games.
+I grew up in Hong Kong and found a love for programming at a young age, I won a few awards throughout high school for computer science. I specifically focused my energy into game development. I also enjoy teacher programming to children and have since developed my own small language to make it easier for kids to program real games. I now study at the Lake Washington Institute of Technology in Kirkland, Washington and am completing an AAS in Computing and Software Development.
 
 ----------------------------
 
