@@ -42,4 +42,6 @@ More projects can be found [here](https://github.com/WilsonKoder), at my GitHub 
 
 I grew up in Hong Kong and found a love for programming at a young age, I won a few awards throughout high school for computer science. I specifically focused my energy into game development. I also enjoy teacher programming to children and have since developed my own small language to make it easier for kids to program real games.
 
-<div style="text-align: center;">[GitHub](https://github.com/WilsonKoder/) - [YouTube](https://youtube.com/WilsonKoder) - [Contact Me](mailto:s-Wilson.Koder@lwtech.edu)</div>
+----------------------------
+
+<div style="text-align: center;"><a href="https://github.com/WilsonKoder/">GitHub</a> - <a href="https://youtube.com/WilsonKoder">YouTube</a> - <a href="mailto:s-wilson.koder@lwtech.edu">Contact Me</a></div>
