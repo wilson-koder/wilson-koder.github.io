@@ -125,7 +125,7 @@ I grew up in Hong Kong and found a love for programming at a young age, I won a 
 
 <img src="me.jpg" width="50%" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
-## A Little Extra
+## Demo
 
 <iframe src="https://trinket.io/embed/pygame/1a6c6e83ec" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
